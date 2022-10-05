@@ -1,5 +1,3 @@
-from codecs import raw_unicode_escape_decode
-from re import S
 import sys
 
 for line in sys.stdin:
